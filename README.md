@@ -2,8 +2,7 @@
 🔰 Beginner
 
 '[Day 1](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-1): Working with Variables in Python to Manage Data
-
-Day 2: Understanding Data Types and How to Manipulate Strings
+Day 2: Understanding Data Types and How to Manipulate Strings\n
 Day 3: Control Flow and Logical Operators
 Day 4: Randomisation and Python Lists
 Day 5: Python Loops
