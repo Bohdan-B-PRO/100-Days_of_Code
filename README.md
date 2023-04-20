@@ -1,4 +1,4 @@
-# '![100 Days of Code: The Complete Python Pro Bootcamp](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)'
+# ![100 Days of Code: The Complete Python Pro Bootcamp](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)
 🔰 Beginner
 
 + [Day 1](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-1): Working with Variables in Python to Manage Data
