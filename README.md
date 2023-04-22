@@ -13,6 +13,8 @@
 + [Day 10](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-10): Functions with Outputs
 + [Day 11](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-11): Functions with Outputs
 + [Day 12](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-12): Scope & Number Guessing Game
++ [Day 13](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-13): Debugging: How to Find and Fix Errors in your Code
++ [Day 14](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-14): Higher Lower Game Project
 
 [//]: # ('[Day 13]&#40;&#41;': Debugging: How to Find and Fix Errors in your Code)
 
