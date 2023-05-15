@@ -1,0 +1,4 @@
+VK | bohdan@mail.com | password 
+Tinder | bohdan@mail.com | password2.0 
+ | bohdan@mail.com |  
+Amazon | bohdan@mail.com | 123 
