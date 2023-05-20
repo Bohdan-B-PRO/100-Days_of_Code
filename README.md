@@ -16,6 +16,29 @@
 + [Day 13](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-13): Debugging: How to Find and Fix Errors in your Code
 + [Day 14](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-14): Higher Lower Game Project
 
+📚 Intermediate
+
+* [Day 15](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-15): Local Development Environment Setup & the Coffee Machine
+* [Day 16](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-16): Object Oriented Programming (OOP)
+* [Day 17](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-17): The Quiz Project & The Benefits of OOP
+* [Day 18](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-18): Turtle & the Graphical User Interface (GUI)
+* [Day 19](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-19): Instances, State and Higher Order Functions
+* [Day 20](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-20): Build the Snake Game Part 1: Animation & Coordinates
+* [Day 21](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-21): Build the Snake Game Part 2: Inheritance & List Slicing
+* [Day 22](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-22): Build Pong: The Famous Arcade Game
+* [Day 23](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-23): The Turtle Crossing Capstone Project
+* [Day 24](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-24): Files, Directories and Paths
+* [Day 25](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-25): Working with CSV Data and the Pandas Library
+* [Day 26](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-26): List Comprehension and the Nato Alphabet
+* [Day 27](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-27): Tkinter, *args, **kwargs and Creating GUI Programs
+* [Day 28](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+* [Day 29](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-29): Building a Password Manager GUI App with Tkinter
+* [Day 30](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-30): Errors, Exceptions and JSON Data: Improving the Password Manager
+* [Day 31](https://github.com/Bohdan-B-PRO/100-Days_of_Code/tree/master/Day-31): Flash Card App Capstone Project
+
+
+
+
 [//]: # ('[Day 13]&#40;&#41;': Debugging: How to Find and Fix Errors in your Code)
 
 
